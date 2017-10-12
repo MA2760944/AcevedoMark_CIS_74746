@@ -1,7 +1,7 @@
 /* 
  * File:   main.cpp
  * Author: Mark Acevedo 
- * Created on October 8, 2017, 7:40 PM
+ * Created on October 6, 2017, 8:00 PM
  * Purpose: This program asks for the length and width of two rectangles. 
  * The program then tells the user which rectangle has the greater area, 
  * or if the areas are the same.

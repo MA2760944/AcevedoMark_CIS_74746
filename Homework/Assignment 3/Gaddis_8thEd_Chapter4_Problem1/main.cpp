@@ -14,12 +14,6 @@ using namespace std;    //Standard Name-space under which System Libraries resid
 int main(int argc, char** argv) {
     //Declare Variables
     int value1, value2;
-    //Initialize Variables
-    
-    //Input Data/Variables
-    
-    //Process or map the inputs to the outputs
-    
     //Display/Output all pertinent variables
     cout<<"Please enter a whole number"<<endl;
     cin>>value1;

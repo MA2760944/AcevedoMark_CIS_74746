@@ -2,7 +2,9 @@
  * File:   main.cpp
  * Author: Mark Acevedo 
  * Created on October 8, 2017, 7:40 PM
- * Purpose:  Creating a class template
+ * Purpose: This program asks for the names of three runners and the 
+ * time it took each of them to finish a race. The program then displays
+ * who came in first, second, and third place.
  */
 
 //System Libraries
